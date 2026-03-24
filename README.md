@@ -45,7 +45,7 @@ Python, Scikit-learn, keras, matplotlib, seaborn, Folium
 * Integrate real-time data (IoT)
 * Use larger datasets
 
-##📎 Notes
+## 📎 Notes
 ---
 This project was developed as part of College project with team members.
 
