@@ -41,10 +41,12 @@ including personal information, health measurements, and other relevant details 
 Python, Scikit-learn, keras, matplotlib, seaborn, Folium
 
 ---
-
 ## 🚀 Future Work
 * Integrate real-time data (IoT)
 * Use larger datasets
 
-  ###This is a team project
+##📎 Notes
+---
+This project was developed as part of College project with team members.
+
   
